@@ -25,6 +25,8 @@ Before configuring the specific scenarios, I **verified** the current Firewall s
 * **Public Network**: Non-discoverable networks meant for untrusted environments like coffee shops or libraries to prevent device discovery.    
                                                                                                                                                                                              
 Please download the "Windows-Firewall-Advanced-Security" PDF file for the full report with the screenshot.
+
+
 I inspected each profile individually to verify its configuration: 
 
 **Domain Network**: Confirmed that the Firewall was toggled **On**. I noted that this profile allows for the absolute isolation of incoming traffic if required by corporate security policy.
