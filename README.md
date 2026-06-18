@@ -24,7 +24,7 @@ Before configuring the specific scenarios, I **verified** the current Firewall s
 * **Private Network**: A network that can be discovered; it is a trusted environment just like a home network.   
 * **Public Network**: Non-discoverable networks meant for untrusted environments like coffee shops or libraries to prevent device discovery.    
                                                                                                                                                                                              
-Please download the "Windows-Firewall-Advanced-Security" PDF file for the full report with the screenshot.
+Please download the "Windows-Firewall-Advanced-Security" PDF file for the full report with the screenshots.
 
 
 I inspected each profile individually to verify its configuration: 
